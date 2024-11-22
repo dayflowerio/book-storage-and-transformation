@@ -6,4 +6,4 @@ src = "src"
 title = "Storage & Transformation: Simple Ways To Think About Information"
 
 [build]
-build-dir = "public"
+build-dir = "docs"
