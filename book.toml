@@ -1,0 +1,6 @@
+[book]
+authors = ["Jacob Joseph"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Storage & Transformation: Simple Ways To Think About Information"
