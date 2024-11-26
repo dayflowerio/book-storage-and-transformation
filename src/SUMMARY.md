@@ -5,6 +5,7 @@
   - [Why did I write this book?](./intro_why_did_i_write_this_book.md)
   - [Do you have any feedback?](./intro_do_you_have_any_feedback.md)
 
+- [Table of Contents](./toc.md)
 - [Chapter 1: What is information?](./chapter_1.md)
 - [Chapter 2: How is information stored?](./chapter_2.md)
 - [Chapter 3: How is information transformed?](./chapter_3.md)
@@ -13,3 +14,4 @@
 - [Chapter 6: Information ecosystems](./chapter_6.md)
 
 - [References](./references.md)
+- [TODO](./todo.md)
