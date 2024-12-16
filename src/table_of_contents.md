@@ -1,0 +1,33 @@
+# Table of Contents
+
+- Introduction
+- Part 1: Information, Data, and Metadata
+  - Information - Everything is information.
+    - reality and imagination
+    - dimensions
+    - atomic information
+    - limits and edges of information
+    - perspective and perception
+    - all problems are information problems
+    - all problems are caching problems
+  - Data - Data is information about information.
+    - dimensional reduction
+    - evidence
+    - records
+    - memes
+  - Metadata - Metadata is data about data.
+    - temporal information
+- Part 2: Storage and Transformation
+  - Storage - Information with stable state.
+  - Transformation - Information with unstable state.
+- Part 3: Information Ecosystems
+  - "Natural" ecosystems - examples of information in the natural world
+    - ecosystem as organism
+  - Human ecosystems - examles of human-centered information ecosystems
+  - Computer Ecosystems - examples of computer-based information ecosystems
+- Part 4: Practical Problems
+  - Information Problems
+  - Practical Data Problems
+  - Practical Metadata Problems
+- Appendix A: Storage Tools
+- Appendix B: Transform Tools

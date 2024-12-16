@@ -1,17 +1,14 @@
 # Summary
 
-- [Introduction](./intro_introduction.md)
-  - [Who is this book for?](./intro_who_is_this_book_for.md)
-  - [Why did I write this book?](./intro_why_did_i_write_this_book.md)
-  - [Do you have any feedback?](./intro_do_you_have_any_feedback.md)
+- [Introduction](./introduction.md)
 
-- [Table of Contents](./toc.md)
-- [Chapter 1: What is information?](./chapter_1.md)
-- [Chapter 2: How is information stored?](./chapter_2.md)
-- [Chapter 3: How is information transformed?](./chapter_3.md)
-- [Chapter 4: Storage Tools](./chapter_4.md)
-- [Chapter 5: Transform Tools](./chapter_5.md)
-- [Chapter 6: Information ecosystems](./chapter_6.md)
+- [Table of Contents](./table_of_contents.md)
+- [What is information?](./what_is_information.md)
+- [How is information stored?](./how_is_information_stored.md)
+- [How is information transformed?](./how_is_information_transformed.md)
+- [Storage Tools](./storage_tools.md)
+- [Transform Tools](./transform_tools.md)
+- [Information Ecosystems](./information_ecosystems.md)
 
 - [References](./references.md)
 - [TODO](./todo.md)
