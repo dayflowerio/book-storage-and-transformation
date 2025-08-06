@@ -1,5 +1,89 @@
 # Table of Contents
 
+- Table of Contents
+  - Detailed Table of Contents
+- Acknowledgements
+- Introduction
+- PART ONE: Simple Ways to Think About Information
+  - Introduction to PART ONE
+  - What is information? (mentions and justifies ethics, but references more in Part 2)
+  - What is data?
+    - What is evidence?
+    - What is measurement?
+    - What is record-keeping?
+      - Analog vs Digital Records
+    - What is Metadata?
+      - Digital Record-keeping and metadata
+  - What is a Digital Data System?
+  - What is a Digital Data Ecosystem?
+  - What is Storage?
+  - What is Transformation?
+    - Digital Transformation (ETL, ELT, data prep, etc.)
+  - What are Signals? (locational transformations)
+  - What careers involve information and data?
+  - What is artificial intelligence (AI)?
+- PART TWO: Effects of Digital Information Storage and Transformation in the Real World
+  - Introduction to PART TWO
+  - Information and Power
+  - Journalism
+  - Social Media
+  - Secrets and Spies
+  - Inherent Effects of Information
+    - Ignorance
+    - Inference (i.e. statistics)
+    - Noise
+    - Attenuation
+    - Truncation
+    - ... others
+  - Omnition vs Pseudo-Omnition
+  - Dashboards and Reports
+  - Affecting Change with Information
+  - Managing People and Treating them Well
+  - Intentional Manipulation
+  - Good vs Bad vs Neutral
+  - Feedback Loops: Intention, Unintention, and Consequence
+- PART THREE: How to Handle Information Effectively in Digital Data Ecosystems
+  - Introduction to PART THREE
+  - Storage Tools
+  - Transformation Tools
+  - Storage and Transformation in a Small Scale Digital Data Ecosystem
+  - Storage and Transformation in a Medium Scale Digital Data Ecosystem
+  - Storage and Transformation in a Large Scale Digital Data Ecosystem
+  - Refactoring Digital Data Ecosystems
+  - Scaling Digital Data Ecosystems
+  - Refactoring Information Ecosystems
+  - Scaling Information Ecosystems
+  - Using Artificial Intelligence
+  - Machine Learning
+  - Large Language Models (LLMS) and Natural Language Processing (NLP)
+  - Optimization
+    - Optimization Overview
+    - Optimizing Information
+    - Optimizing Data
+    - Optimizing Metadata
+    - Optimizing Digital Data Systems
+    - Optimizing Digital Data Ecosystems
+- PART FOUR: Where to go from here?
+  - Introduction to PART FOUR
+  - Information Ecosystems and Governance
+  - Information Ecosystems and Environments
+  - Information Ecosystems and Humanity
+  - Information Ecosystems and Health
+  - Opportunities for improvement with Digital Data Ecosystems
+  - Opportunities for improvement with Information Ecosystems
+  - How to build on the skills shared in this book
+- Appendices
+  - Digital Data Storage Reference
+  - Digital Data Transformation Reference
+  - Digital Data System Reference
+- Index
+
+
+
+
+
+
+
 - Introduction
 - Part 1: Information, Data, and Metadata
   - Information - Everything is information.

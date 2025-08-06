@@ -10,6 +10,7 @@
     - A rock
     - The rock's surface
 
+## Everything can be treated as information
 - Everything can be conceptualized as information.
 - Everything can be thought of as a system or part of a system.
   - Every system has a border
@@ -21,6 +22,13 @@
       - binary dimension (is or is not the information)
     - approximated by assigned uuid
 - A unit of information can be treated as a meme.
+- ![meme illustration](./figures/meme_description-20241216a.png)
+
+## Information has dimensionality
+- ![dimensions of counting](./figures/dimensions_of_counting-20241216a.png)
+
+
+## Information has physical dimensions
 
 - Treat data and information as physical things.
   - Benefits:
@@ -32,8 +40,7 @@
     - molecular data
     - mixtures/solutions of data
 
-- ![what is information? exploratory theory](./figures/what_is_information_exploratory_theory-20241216a.png)
 - ![atomic data shape and structure](./figures/atomic_data_shape_structure-20241216a.png)
-- ![dimensions of counting](./figures/dimensions_of_counting-20241216a.png)
-- ![meme illustration](./figures/meme_description-20241216a.png)
+- ![what is information? exploratory theory](./figures/what_is_information_exploratory_theory-20241216a.png)
 -
+
